@@ -1,0 +1,48 @@
+body{
+    
+    background-image: url("/assets/img/background.jpg");
+    
+  }
+
+
+li {
+    font-family: 'Righteous', cursive;
+    padding: 5px;
+    margin: 5px;
+    background: #3f41c0;
+    color: white;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: rgb(78, 51, 196);
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
+  img{
+      width: 200px;
+      height: 200px;
+
+  }
+
+  #picture{
+      text-align: center;
+      font-family: 'Righteous', cursive;
+      color: white;
+
+  }
+
+  #A{
+    color: white;
+    font-family: 'Righteous', cursive;
+  }
+
+  
